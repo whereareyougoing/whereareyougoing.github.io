@@ -99,3 +99,8 @@ deploy:
   type: 'git'
   repo: git@github.com:whereareyougoing/whereareyougoing.github.io.git
   branch: master
+
+leancloud_visitors:
+  enable: true
+  app_id: 8OPtYMxldrWT8lQxrBqn4dcP-gzGzoHsz
+  app_key: Vrt4yjBV2Yc6hOG7zxvHits7
