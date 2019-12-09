@@ -1,7 +1,8 @@
 ---
 title: demo
 date: 2019-11-29 00:31:35
-tags:
+tags: [博客]
+categories: [博客]
 ---
 
 

@@ -104,3 +104,17 @@ leancloud_visitors:
   enable: true
   app_id: 8OPtYMxldrWT8lQxrBqn4dcP-gzGzoHsz
   app_key: Vrt4yjBV2Yc6hOG7zxvHits7
+
+
+#next search  搜索功能   npm install hexo-generator-searchdb --save
+search:  
+    path: search.xml
+    field: post
+    format: html
+    limit: 10000
+
+#Feed Atom
+feed:
+  type: atom
+  path: atom.xml
+  limit: 0
