@@ -99,7 +99,7 @@ menu:
   archives: /archives/ || archive # 归档
   schedule: /schedule/ || calendar # 日程表
   sitemap: /sitemap.xml || sitemap # 站点滴入
-  commonweal: /404/ || heartbeat # 公益404
+  commonweal: /404.html || heartbeat # 公益404
 
 # Enable/Disable menu icons.
 menu_icons:
